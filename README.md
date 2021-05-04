@@ -4,6 +4,7 @@
 - 🔭 I'm currently searching some wonderful job
 
 - 🌱 I’m currently learning **Redux, NextJs and TDD**
+- I'm a Computer Technician and Student of Computer Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
