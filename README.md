@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaffé Marques</h1>
 <h3 align="center">A passionate FullStack from Brazil</h3>
 
-- 🔭 I'm currently searching some wonderful job
+- 🔭 I'm currently working on SolarView
 
 - 🌱 I’m currently learning **Redux, NextJs and TDD**
 - I'm a Computer Technician and Student of Computer Science
