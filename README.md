@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaffé Marques</h1>
 <h3 align="center">A passionate FullStack from Brazil</h3>
 
-- 🔭 I'm currently working on Movida
-
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
+- I'm currently working on Movida
+- I’m currently learning **Data Science and Artificial Intelligence**
 - I'm a Computer Technician and Student of Computer Science and Data Science
 
 <h3 align="left">Connect with me:</h3>
