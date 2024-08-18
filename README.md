@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jaffé Marques</h1>
-<h3 align="center">A passionate FullStack from Brazil</h3>
 
-- I'm currently IT Coordinator on Movida
-- I’m currently learning **Data Science and Artificial Intelligence**
+### Hi there! 👋
+
+I'm Jaffé, a software engineer passionate about building scalable, high-performance applications. I love diving into new technologies, optimizing systems, and contributing to open source projects. My focus is on creating reliable microservices and supporting development teams to achieve excellence.
+
+#### 💼 Professional Expertise
+- **Backend:** PHP, Python, Node.js, NestJs, Laravel
+- **Frontend:** JavaScript, Angular, ReactJs, React Native
+- **Databases:** MySQL, MongoDB, Redis
+- **DevOps:** Docker, CI/CD, Cloud Deployment
+- **Other Interests:** Machine Learning, System Optimization
+
+#### 🚀 What I'm Up To
+- Leading teams to develop and maintain high-availability microservices.
+- Constantly exploring new ways to optimize and scale applications.
+- Actively contributing to open source projects and sharing knowledge with the community.
+
+Let's connect and collaborate on exciting projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
