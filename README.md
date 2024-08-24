@@ -15,7 +15,7 @@ I'm Jaffé, a software engineer passionate about building scalable, high-perform
 - Constantly exploring new ways to optimize and scale applications.
 - Actively contributing to open source projects and sharing knowledge with the community.
 
-Let's connect and collaborate on exciting projects!
+Let's connect and collaborate on exciting projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
