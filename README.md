@@ -17,8 +17,9 @@ I'm Jaffé, a software engineer passionate about building scalable, high-perform
 
 Let's connect and collaborate on exciting projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://pt.stackoverflow.com/users/107171/jaffe-marques" target="blank"><img align="center" src="https://aegmedia.com.br/wp-content/uploads/2021/05/stack-overflow.png" alt="jaffé-marques-04a983169" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/jaff%C3%A9-marques-04a983169/" target="_BLANK"><img align="center" src="https://aegmedia.com.br/wp-content/uploads/2021/05/linkedin.png" alt="jaffemarques" height="50" width="50" /></a>
+### Connect with me:
+
+- [LinkedIn: Jaffé Marques](https://www.linkedin.com/in/jaffe-marques/)
+- [Stack Overflow: Jaffé Marques - PT-BR](https://pt.stackoverflow.com/users/107171/jaffe-marques)
+- [Stack Overflow: Jaffé Marques](https://stackoverflow.com/users/9488346/jaffe-marques)
 </p>
