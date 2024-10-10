@@ -20,6 +20,6 @@ Let's connect and collaborate on exciting projects
 ### Connect with me:
 
 - [LinkedIn: Jaffé Marques](https://www.linkedin.com/in/jaffe-marques/)
-- [Stack Overflow: Jaffé Marques - PT-BR](https://pt.stackoverflow.com/users/107171/jaffe-marques)
 - [Stack Overflow: Jaffé Marques](https://stackoverflow.com/users/9488346/jaffe-marques)
+- [Stack Overflow: Jaffé Marques - PT-BR](https://pt.stackoverflow.com/users/107171/jaffe-marques)
 </p>
