@@ -5,7 +5,7 @@ I'm Jaffé, a software engineer passionate about building scalable, high-perform
 
 #### 💼 Professional Expertise
 - **Backend:** PHP, Python, Node.js, NestJs, Laravel
-- **Frontend:** JavaScript, Angular, ReactJs, React Native
+- **Frontend:** JavaScript, Angular, ReactJs, React Native, Vue
 - **Databases:** MySQL, MongoDB, Redis
 - **DevOps:** Docker, CI/CD, Cloud Deployment
 - **Other Interests:** Machine Learning, System Optimization
