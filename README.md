@@ -1,5 +1,5 @@
 
-### Hi there! 👋
+### Hi there! 
 
 I'm Jaffé, a software engineer passionate about building scalable, high-performance applications. I love diving into new technologies, optimizing systems, and contributing to open source projects. My focus is on creating reliable microservices and supporting development teams to achieve excellence.
 
