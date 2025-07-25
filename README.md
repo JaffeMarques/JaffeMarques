@@ -1,3 +1,4 @@
+
 ### 👋 Olá!
 
 Sou **Jaffé Marques**, **Coordenador de TI** e **engenheiro de software**, apaixonado por liderar times de alta performance e construir sistemas escaláveis e confiáveis. Com uma base sólida em desenvolvimento full-stack e DevOps, atuo conectando **execução técnica** à **liderança estratégica**.
@@ -9,7 +10,9 @@ Acredito em **fortalecer pessoas antes de processos** — Meu papel vai além do
 #### 💼 Liderança & Expertise Técnica  
 - **Liderança técnica:** Formação de times, mentoria, colaboração entre áreas  
 - **Desenvolvimento Backend:** PHP, Python, Node.js, NestJS, Laravel — APIs e microsserviços escaláveis  
-- **Desenvolvimento Frontend:** Angular, React, Vue, React Native — interfaces modulares e eficientes  
+- **Desenvolvimento Frontend:** Angular, React, Vue, React Native — interfaces modulares e eficientes
+- **Arquitetura Frontend:** Microfrontends, Module Federation, Design Systems e padrões de UI escaláveis
+  
 - **Bancos de dados & cache:** MySQL, MongoDB, Redis — modelagem e otimização de performance  
 - **DevOps & Infraestrutura:** Docker, pipelines CI/CD, deploy em nuvem, fundamentos de Kubernetes  
 - **Inovação & IA:** Interesse em LLMs, RAG e agentes de IA focados na experiência de desenvolvimento
@@ -40,22 +43,24 @@ Acredito em **fortalecer pessoas antes de processos** — Meu papel vai além do
 ### 📬 Vamos nos conectar  
 - [LinkedIn](https://www.linkedin.com/in/jaffe-marques/)  
 - [Stack Overflow](https://stackoverflow.com/users/9488346/jaffe-marques)  
-- [Stack Overflow (PT-BR)](https://pt.stackoverflow.com/users/107171/jaffe-marques)
-  
+- [Stack Overflow (PT-BR)](https://pt.stackoverflow.com/users/107171/jaffe-marques)  
+
 ---
 
 ### 👋 Hi there!
 
 I'm **Jaffé Marques**, an **IT Coordinator** and **software engineer** passionate about leading high-performance teams and building scalable, reliable systems. With a strong foundation in full-stack development and DevOps, I bridge the gap between **technical execution** and **strategic leadership**.
 
-I believe in **empowering people first** — My role goes beyond delivering code: it's about fostering a culture of collaboration, autonomy, and continuous improvement, where teams can thrive and solutions scale.
+I believe in **empowering people first** — technology follows. My role goes beyond delivering code: it's about fostering a culture of collaboration, autonomy, and continuous improvement, where teams can thrive and solutions scale.
 
 ---
 
 #### 💼 Leadership & Technical Expertise  
 - **Engineering Leadership:** Team building, mentoring, cross-functional collaboration  
 - **Backend Development:** PHP, Python, Node.js, NestJS, Laravel — API-first & microservices architecture  
-- **Frontend Development:** Angular, React, Vue, React Native — component-driven UIs at scale  
+- **Frontend Development:** Angular, React, Vue, React Native — component-driven UIs at scale
+- **Frontend Architecture:** Microfrontends, Module Federation, Design Systems, and scalable UI patterns
+  
 - **Databases & Caching:** MySQL, MongoDB, Redis — performance tuning & data modeling  
 - **DevOps & Infrastructure:** Docker, CI/CD pipelines, cloud-native deployments, Kubernetes fundamentals  
 - **AI & Innovation:** Interest in LLMs, RAG pipelines, developer experience with AI agents
