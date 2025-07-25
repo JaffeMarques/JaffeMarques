@@ -17,6 +17,13 @@ I believe in **empowering people first** — technology follows. My role goes be
 
 ---
 
+
+#### 🎓 Education
+- **Bachelor’s in Data Science**
+- **Postgraduate in Software Architecture**
+
+---
+
 #### 🚀 What I Drive  
 - **Strategic technical leadership**, aligning engineering efforts with business goals  
 - **Ownership culture**, where teams deliver, evolve and maintain their own services  
@@ -53,6 +60,13 @@ Acredito em **fortalecer pessoas antes de processos** — a tecnologia vem depoi
 - **Bancos de dados & cache:** MySQL, MongoDB, Redis — modelagem e otimização de performance  
 - **DevOps & Infraestrutura:** Docker, pipelines CI/CD, deploy em nuvem, fundamentos de Kubernetes  
 - **Inovação & IA:** Interesse em LLMs, RAG e agentes de IA focados na experiência de desenvolvimento
+
+---
+
+
+#### 🎓 Formação Acadêmica
+- **Graduação em Ciência de Dados**
+- **Pós-graduação em Arquitetura de Software**
 
 ---
 
